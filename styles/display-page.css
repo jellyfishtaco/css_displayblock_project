@@ -1,0 +1,53 @@
+
+.box_parent > div {
+
+	display: inline-block;
+}
+
+.box_parent {
+
+	border: 1px solid black;
+	width: 800px;
+	font-size:0px;
+
+
+
+	
+}
+
+.box1 {
+
+	background-color: purple;
+	width: 50%;
+	height: 200px;
+	border: 1px;
+
+}
+
+.box2 {
+	background-color: green;
+	width:50%;
+	height: 200px;
+
+}
+
+.box3 {
+	height: 300px;
+	width: 33.3%;
+	background-color: grey;
+}
+
+.box4 {
+
+	height: 300px;
+	width: 33.3%;
+	background-color: black;
+
+}
+
+.box5 {
+
+	height: 300px;
+	width: 33.3%;
+	background-color: yellow;
+}
